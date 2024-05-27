@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevintaPaskaita", "DevintaPaskaita\DevintaPaskaita.csproj", "{3A4D23A4-0DC8-4E1D-B17A-30871E6D66EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KelioniuAgentura", "02Uzduotis\KelioniuAgentura.csproj", "{0877CD9A-40CC-48EA-BF52-3274CDC74E89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3A4D23A4-0DC8-4E1D-B17A-30871E6D66EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A4D23A4-0DC8-4E1D-B17A-30871E6D66EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A4D23A4-0DC8-4E1D-B17A-30871E6D66EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0877CD9A-40CC-48EA-BF52-3274CDC74E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0877CD9A-40CC-48EA-BF52-3274CDC74E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0877CD9A-40CC-48EA-BF52-3274CDC74E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0877CD9A-40CC-48EA-BF52-3274CDC74E89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
